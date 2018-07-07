@@ -1,0 +1,24 @@
+[
+    {
+        "species": "Messor barbarus",
+        "location": "europe",
+        "description": "Messor barbarus is a very popular European Ant that alot of Ant-keepers keep.  A hardy species that is easy to keep.  Messor barbarus is a Harvester Ant. They collect seeds and store them in a grainary within the nest.  The larger Ants will chew these seeds to make 'Ant bread' which is their primary food source. They also feed of dead Insects. Messor barbarus will not  will not normally feed on honey/sugar water.  they should have a supply of freshwater drinking water which must be protected from drowning.  These Ants will thrive at room temperature (above 21°C) but may need an additional heater when the temperature is likely to fall below room temperature for an extended period of time.  You should always hibernate this species, espesically so if your Queen has not yet laid any eggs. The nest should have both a dry and moist area.  The dry area will be used to store the seeds and grains.",
+        "rating": 1,
+        "nestTemperature":"21-26°C",
+        "hibernation":"Yes, November-February, at 15°C",
+        "diet":"Seeds, Grains, Insect protein, Flies, Crickets, Cockroaches, Seeds",
+        "life":"20-25 years",
+        "images":["https://i.pinimg.com/originals/d7/db/6e/d7db6ede72ab78b19e774df6070d9d1a.jpg", "http://i234.photobucket.com/albums/ee261/Unexisted_2007/major_barbarus_123.jpg", "http://rincondelecturas.com/lecturas/60029-hormigas-al-ataque/images/hormigas-al-ataque.png"]
+    },
+    {
+        "species": "Lasius niger",
+        "location": "United Kingdom",
+        "description": "Lasius niger, or the black garden ant, is a very easy species to keep. They are survivors and can handle harsh environments and situations. Each colony has got a single queen and can grow into tens of thousands of workers.",
+        "rating": 1,
+        "nestTemperature":"21-24°C",
+        "hibernation":"Yes, October to March, 5-8°C",
+        "diet":"Sugar-water, Insect protein, Honey-water, Flies, Crickets, Cockroaches",
+        "life":"10-15 years",
+        "images": ["http://www.petworlds.net/wp-content/uploads/2018/07/lasius-niger-img.jpg", "http://antark.net/wp-content/gallery/blackgarden/brian-valentine%20(1).jpg", "http://www.antwiki.org/wiki/images/thumb/c/c9/Michal_Kukla_Lasius_niger_2.jpg/400px-Michal_Kukla_Lasius_niger_2.jpg"]
+    }
+]

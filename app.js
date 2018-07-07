@@ -2,7 +2,7 @@ if (process.env.NODE_ENV !== 'test') process.env.NODE_ENV = 'dev';
 const  DB_url  = process.env.DB_url || require('./config').DB_url
 const mongoose = require('mongoose');
 const app = require('express')();
-const api = require('./utils/api route')
+const api = require('./routes/api.route')
 
 mongoose.connect(DB_url).then(() => console.log('DB connected'))
 

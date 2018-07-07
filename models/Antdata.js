@@ -6,25 +6,39 @@ const AntSchema = new Schema({
     type: String,
     required: true
   },
-  body: {
+  location: {
     type: String,
     requied: true
   },
-  belongs_to: {
-    type: mongoose.Schema.Types.ObjectId,
-    ref: 'topics',
-    required: true
+  description: {
+    type: String,
+    requied: true
   },
-  votes: {
+  rating: {
     type: Number,
-    required: true,
-    default: 0
+    requied: true
   },
-  created_by: {
-    type: mongoose.Schema.Types.ObjectId,
-    ref: 'users',
-    required: true
-  }
+  nestTemperature: {
+    type: String,
+    requied: true
+  },
+  hibernation: {
+    type: String,
+    requied: true
+  },
+  diet: {
+    type: String,
+    requied: true
+  },
+  life: {
+    type: String,
+    requied: true
+  },
+  images: {
+    type: [String],
+    requied: true
+  },
+
 });
 
-module.exports = mongoose.model('articles', ArticleSchema);
+module.exports = mongoose.model('ants', AntSchema);
