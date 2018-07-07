@@ -1,5 +1,38 @@
 [
     {
+        "species": "Camponotus ligniperdus",
+        "location": "europe",
+        "description": "Camponotus ligniperdus is a European ant and is one of the largest in Europe.  A hardy species that is easy to keep, that is active both day and night. A colony just starting off can be a little inactive at first until the colony develops at least 10 workers. Large colonies of Camponotus ligniperdus are very active and will provide a lot of entertainment to their owners.  Workers can reach up to 14mm in length, these particular workers are called Major workers.  The smaller workers are called Minor workers. This Camponotus species can be kept at room temperature, however an additional heat spot is appreciated.  The nest should have both a dry and moist area. In nature the Camponotus ligniperdus only has one Queen per colony.This is a suitable ant for beginners.",
+        "rating": 1,
+        "nestTemperature":"18-28°C",
+        "hibernation":"Yes, October to March, at 5-8°C",
+        "diet":"Sugar-water, Insect protein, Honey-water, Flies, Crickets, Cockroaches", 
+        "life":"15 years",
+        "images":["https://upload.wikimedia.org/wikipedia/commons/5/52/Carpenter_Ant_%28Camponotus_ligniperdus%29_%2813563515215%29.jpg", "http://a54.idata.over-blog.com/3/45/12/67/Camponotus-ligniperdus.jpg", "http://a403.idata.over-blog.com/3/45/12/67/Reine-Camponotus-ligniperdus-et-ses-ouvrieres.jpg"]
+    },
+    {
+        "species": "Camponotus herculeanus",
+        "location": "europe",
+        "description": "Camponotus herculeanus is one of the largest European species of ant (a lot larger than Messor barbarus).  Sometimes known as the Black Carpenter ant, they are distributed over Central Europe from Sweden and Norway to Poland and Germany.  Camponotus herculeanus can produce major workers which are almost as big as their Queen.   The nest should have both a dry and a moist area.   This species of ant can be kept at room temperature, however an additional heat spot is recommended.   This species only has one Queen per colony.   A well established Queen and colony can number up to 10,000 worker ants.   They are active both day and night.",
+        "rating": 1,
+        "nestTemperature":"21-30°C",
+        "hibernation":"Yes, from October to March",
+        "diet":"Consume almost any form of protein.",
+        "life":"15 years",
+        "images":["https://cdn.shopify.com/s/files/1/1005/4824/products/0970564567aaa27c19c89182b2176242_1024x1024.png?v=1449579293", "https://c1.staticflickr.com/8/7627/16187417064_3a4f6d4d3c_b.jpg", "http://antclub.org/files/images/DSCN0320R.jpg"]
+    },
+    {
+        "species": "Camponotus cruentatus",
+        "location": "europe",
+        "description": "Camponotus cruentatus is one of the largest ants in Europe.  This is an active ant species with very striking colouration. A colony just starting off can be a little inactive at first until the colony develops around 10 workers. Larger colonies of Camponotus cruentatus are very active and will provide a lot of entertainment to their owners. Workers can reach a substantial size of up to 14mm in length. These particular workers are called Major workers.  The smaller workers are called Minor workers. This Camponotus species can be kept at room temperature, however an additional heat spot is appreciated.  The nest ideally should have both a dry and moist area. In nature the Camponotus cruentatus only has one Queen per colony. This is a good ant for beginners.",
+        "rating": 1,
+        "nestTemperature":"21-24°C",
+        "hibernation":"Yes, November-February, at 15°C",
+        "diet":"Sugar-water, Insect protein, Honey-water, Flies, Crickets, Cockroaches",
+        "life":"20-25 years",
+        "images":["https://www.tapatalk.com/groups/antfarm/imageproxy.php?url=http://i655.photobucket.com/albums/uu272/Ctthacker/Camponotus%20castaneus/7250.jpg","http://www.schoolofants.org/sites/default/files/Camponotus%20castaneus.jpg?1325624943","https://bugguide.net/images/raw/0KN/KLK/0KNKLK1KGKVKUQAKUQAKGKY0XKRSGK30BQHS6Q6K2QD05Q9KZKVK5K1KLKEKGQ9KGQ2K8QJ08K.jpg"]
+    },
+    {
         "species": "Messor barbarus",
         "location": "europe",
         "description": "Messor barbarus is a very popular European Ant that alot of Ant-keepers keep.  A hardy species that is easy to keep.  Messor barbarus is a Harvester Ant. They collect seeds and store them in a grainary within the nest.  The larger Ants will chew these seeds to make 'Ant bread' which is their primary food source. They also feed of dead Insects. Messor barbarus will not  will not normally feed on honey/sugar water.  they should have a supply of freshwater drinking water which must be protected from drowning.  These Ants will thrive at room temperature (above 21°C) but may need an additional heater when the temperature is likely to fall below room temperature for an extended period of time.  You should always hibernate this species, espesically so if your Queen has not yet laid any eggs. The nest should have both a dry and moist area.  The dry area will be used to store the seeds and grains.",
@@ -12,7 +45,7 @@
     },
     {
         "species": "Lasius niger",
-        "location": "United Kingdom",
+        "location": "united kingdom",
         "description": "Lasius niger, or the black garden ant, is a very easy species to keep. They are survivors and can handle harsh environments and situations. Each colony has got a single queen and can grow into tens of thousands of workers.",
         "rating": 1,
         "nestTemperature":"21-24°C",
@@ -20,5 +53,27 @@
         "diet":"Sugar-water, Insect protein, Honey-water, Flies, Crickets, Cockroaches",
         "life":"10-15 years",
         "images": ["http://www.petworlds.net/wp-content/uploads/2018/07/lasius-niger-img.jpg", "http://antark.net/wp-content/gallery/blackgarden/brian-valentine%20(1).jpg", "http://www.antwiki.org/wiki/images/thumb/c/c9/Michal_Kukla_Lasius_niger_2.jpg/400px-Michal_Kukla_Lasius_niger_2.jpg"]
+    },
+    {
+        "species": "Lasius flavus",
+        "location": "united kingdom",
+        "description": "Lasius (Cautolasius) flavus is a very popular species of ant to keep in captivity. Found in the UK appearing a golden-Yellow on colour. The nest should have both a dry and a moist area.  Lasius (Cautolasius) flavus can be kept at room temperature, however an additional heat spot would be appreciated. In nature the Laius (Cautolasius) flavus only has one Queen per colony. This is a suitable ant for beginners.",
+        "rating": 1,
+        "nestTemperature":"21-24°C",
+        "hibernation":"Yes, October to March, 5-8°C",
+        "diet":"Sugar-water, Insect protein, Honey-water, Flies, Crickets, Cockroaches",
+        "life":"15-20 years",
+        "images": ["http://cdn.shopify.com/s/files/1/1005/4824/products/image_3c8f49d1-b0d3-4648-ba03-1f9ef001e18e_grande.jpg?v=1476824041","https://i0.wp.com/antshungary.com/wp-content/uploads/2018/03/Lasius-flavus_01-antshungary.jpg?fit=1200%2C900","https://i.pinimg.com/originals/bb/9b/45/bb9b45e499959c4c7d9a159908ce09c1.jpg"]
+    },
+    {
+        "species": "Myrmica rubra",
+        "location": "united kingdom",
+        "description": "Myrmica rubra are quite a common British ant species. They can be kept at room temperature,when kept in captivity.Myrmica rubra have a potent sting so they are able to defend their colony against predators. Their sting is compared to that of a stinging nettle and the effect can last for some time. Myrmica rubra are commonly found to have multiple Queens but since the Queens are only larger than a worker by a small amount, noticing them can prove difficult. Myrmica rubra are red/brown in colour and can be found nesting in rotten wood logs in the wild. Myrmica rubra are strong hunters and can be very aggressive towards other insects. Myrmica rubra are known for being able to kill insects with ease. Just drop a waxworm into a group of 100 or so workers and see their amazing aggressive behaviour.",
+        "rating": 2,
+        "nestTemperature":"21-24°C",
+        "hibernation":"Yes, October to March, 5-8°C",
+        "diet":"Sugar-water, Insect protein, Honey-water, Flies, Crickets, Cockroaches",
+        "life":"15 years",
+        "images": ["https://cdn.shopify.com/s/files/1/1005/4824/products/image_d0589b41-bb14-4d40-accc-b43c70037706_1024x1024.jpg?v=1517346827","http://www.bwars.com/sites/www.bwars.com/files/styles/largest__950x750_/public/species_images/myrmica_rubra_spider_RB.jpg?itok=oSkvE5Uo","http://www.bwars.com/sites/www.bwars.com/files/styles/largest__950x750_/public/species_images/20130721_8897.jpg?itok=W6SxAj9K"]
     }
 ]
