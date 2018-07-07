@@ -1,0 +1,27 @@
+{
+  "name": "antdentifierbe",
+  "version": "1.0.0",
+  "description": "back end for the antdentifier app",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "chai": "^4.1.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.3",
+    "mongoose": "^5.2.1",
+    "nodemon": "^1.17.5",
+    "supertest": "^3.1.0"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  },
+  "scripts": {
+    "test": "mocha spec",
+    "start": "node listen.js",
+    "dev": "nodemon listen.js",
+    "dev-seed": "NODE_ENV=dev node seed/dev.seed.js",
+    "prod-seed": "NODE_ENV=production node seed/dev.seed.js"
+  },
+  "author": "Mathew Jackson",
+  "license": "ISC"
+}
