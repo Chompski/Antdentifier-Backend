@@ -1,0 +1,1 @@
+module.exports = {DB_url: 'mongodb://chompski:amorgan123@ds129780.mlab.com:29780/ncnews'}

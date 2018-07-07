@@ -1,0 +1,1 @@
+module.exports = {DB_url: 'mongodb://localhost:27017/antdentifierDB_test'}
