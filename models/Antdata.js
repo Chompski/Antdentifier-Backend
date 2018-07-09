@@ -6,6 +6,10 @@ const AntSchema = new Schema({
     type: String,
     required: true
   },
+  colour: {
+    type: [String],
+    required: true
+  },
   location: {
     type: String,
     requied: true
