@@ -1,6 +1,6 @@
-# Northcoders News
+# Antdentifier Back-End
 
-A discussion based web-app that allows users to sign up and contribute content, it is easy to navigate and covers a range of user based topics.
+The backend for an app which displays ant keeping infomation on a variety of the most popular species of ants.
 
 ### Prerequisites
 
