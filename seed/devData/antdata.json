@@ -33,7 +33,7 @@
         "hibernation":"Yes, November-February, at 15°C",
         "diet":"Sugar-water, Insect protein, Honey-water, Flies, Crickets, Cockroaches",
         "life":"20-25 years",
-        "images":["https://www.tapatalk.com/groups/antfarm/imageproxy.php?url=http://i655.photobucket.com/albums/uu272/Ctthacker/Camponotus%20castaneus/7250.jpg","http://www.schoolofants.org/sites/default/files/Camponotus%20castaneus.jpg?1325624943","https://bugguide.net/images/raw/0KN/KLK/0KNKLK1KGKVKUQAKUQAKGKY0XKRSGK30BQHS6Q6K2QD05Q9KZKVK5K1KLKEKGQ9KGQ2K8QJ08K.jpg"]
+        "images":["https://orig00.deviantart.net/8a80/f/2009/067/9/1/camponotus_cruentatu_drinking_by_buleria.jpg","https://c1.staticflickr.com/8/7070/6937681968_5a256cd807_b.jpg","https://c1.staticflickr.com/3/2676/3858859608_d0e6cd46d9_b.jpg"]
     },
     {
         "species": "Messor barbarus",
@@ -121,7 +121,7 @@
     },
     {
         "species": "Formica sanguinea",
-        "colour": ["black","red"],
+        "colour": ["red"],
         "location": "Europe",
         "description": "Formica sanguinea are a species found throughout Europe. This is a blood-red-brown ant with a black abdomen and head. This species of Formica is very fascinating for their 'robbery of slaves'. During the summer months, they attack other Formica species, most commonly Formica fusca for their larva and cocoons, However this Formica can live without any slave ants and can move very fast. Most colonies are monogynous meaning they have only one queen. Very large colonies in the wild can be polygyne. Nests can become large, a large established colony can have up to 10000 workers or more.",
         "rating": 1,
@@ -178,5 +178,77 @@
         "diet":"Sugar-water, Insect protein, Honey-water, Flies, Crickets, Cockroaches", 
         "life":"10 years",
         "images":["https://c1.staticflickr.com/5/4108/4836653919_95784278ab_b.jpg", "https://c1.staticflickr.com/5/4106/4837265286_120b6951b0_b.jpg", "https://c1.staticflickr.com/5/4124/4837266048_0df55d712f_b.jpg"]
+    },
+    {
+        "species": "Camponotus compressus",
+        "colour": ["black"],
+        "location": "Asia",
+        "description": "Camponotus compressus is an undemanding and hardy species, which require slightly warmer, drier conditions. Sometimes known as the Godzilla ant. It is a large species of Camponotus from Asia that is fast growing and very aggressive, reacting very quickly to any disturbances around their nest. Camponotus compressus appears to have a few different colour variations. They are distributed over South Asia. When kept at warmer temperatures, the workers will sometimes run around with their abdomens curled upwards. They will sometimes dig into the substrates which resembles a pet dog digging. This species only has one Queen per colony. A well established Queen and colony can reach up to 5,000 worker ants.",
+        "rating": 4,
+        "nestTemperature":"22-30°C",
+        "hibernation":"No",
+        "diet":"Insects, sugar-water, honey", 
+        "life":"15 years",
+        "images":["http://i0.wp.com/www.indebo.com/a-wild-india/wp-content/uploads/2015/01/camponotus-compressus-702.jpg", "https://i1.treknature.com/photos/14253/camponotus_compressus.jpg", "http://static.flickr.com/7091/7367765526_ee3aa4657f.jpg"]
+    },
+    {
+        "species": "Camponotus habereri",
+        "colour": ["brown"],
+        "location": "Asia",
+        "description": "Camponotus habereri is an Asian ant species featuring rust-red and brown colouration. A fantastic species to keep with beautiful variations in colour and the workers inherit the colours of the Queen. Camponotus habereri is a very easy to keep ant species, able to be kept in almost any formicarium. This species has the benefit of growing much quicker than most Camponotus species.",
+        "rating": 2,
+        "nestTemperature":"22-25°C",
+        "hibernation":"No",
+        "diet":"Insects, honey water", 
+        "life":"15 years",
+        "images":["http://eoldata.taibif.tw/files/eoldata/imagecache/data_object_image/images/223/chou_ju_shan_yi___camponotus_habereri_tai_bei_yang_ming_shan__.jpg", "https://1.bp.blogspot.com/-Jg6ox32syCY/WlDnN6uDXXI/AAAAAAAA53k/cqWdJqGYscYgbKZkQc0vYPHwvBUQ77pnACLcBGAs/s1600/IMGP8666.JPG", "http://farm9.static.flickr.com/8036/7990610834_533e5a368a.jpg"]
+    },
+    {
+        "species": "Camponotus largiceps",
+        "colour": ["black"],
+        "location": "Asia",
+        "description": "Camponotus largiceps is an Asian species of Camponotus which does not require hibernation due to their warm habitat. This large, beautiful Camponotus has a similar behavior to the Eurpoean Camponotus ligniperdus, which does need to hibernate.  Camponotus largiceps can produce major workers which are almost as large as their Queen. The nest should have both a dry and moist area. This species of ant can be kept at room temperature, however an additional heat spot is recommended. In nature the Camponotus largiceps only has one Queen per colony. A well established Queen and colony can number up to 4,000 worker ants.",
+        "rating": 2,
+        "nestTemperature":"24-28°C",
+        "hibernation":"No",
+        "diet":"Sugar-water, Insect protein, Honey-water, Flies, Crickets, Cockroaches", 
+        "life":"15 years",
+        "images":["https://static-eu.insales.ru/files/1/6952/3824424/original/%D0%BB%D0%B0%D1%80%D0%B3%D0%B81.jpg", "https://4.bp.blogspot.com/-ZiZ3VRPSOSM/WlDlRiSlmuI/AAAAAAAA53Q/GVgZ9xeIGv8Ng3o7_uZsVKFfuLmHCex1wCLcBGAs/s1600/IMGP8659.JPG", "https://i.ytimg.com/vi/E14U7oRJvq4/hqdefault.jpg"]
+    },
+    {
+        "species": "Camponotus nicobarensis",
+        "colour": ["red"],
+        "location": "Asia",
+        "description": "Camponotus nicobarensis is an Asian ant species which does not require hibernation due to their hot habitat. They are a lovely coloured ant very similar to Camponotus habereri. Contrary to typical Camponotus species, Camponotus nicobarensis have a relatively fast rate of brood development.   A very fast moving and active species of Camponotus.  Workers can reach up to 12mm in length, these particular workers are called Major workers and can be distinguished by not only their size, but also their large heads and jaws. The smaller workers are called Minor workers and make up the majority of workers in the colony.",
+        "rating": 2,
+        "nestTemperature":"24-28°C",
+        "hibernation":"No",
+        "diet":"Sugar-water, Insect protein, Honey-water, Flies, Crickets, Cockroaches", 
+        "life":"25 years",
+        "images":["https://www.netherlants.nl/WebRoot/StoreNL3/Shops/82970412/5978/82FF/9DD9/9365/5ED1/C0A8/2BB8/41E6/Camponotus_nicobarensis_kopem_m.jpg", "https://www.ameisencafe.de/cafe/wcf/images/upload/nico.JPG", "http://www.formiculture.com/uploads/gallery/album_795/med_gallery_226_795_181618.jpg"]
+    },
+    {
+        "species": "Camponotus pseudoirritans",
+        "colour": ["brown"],
+        "location": "Asia",
+        "description": "Camponotus pseudoirritans is an Asian ant species which features high variability in the colouration of the workers. They are a polymorphic species which means they have minor, media, major worker castes. The workers are a lighter brown than the Queen, with the larger workers heads sometimes being a lot darker. As with all Camponotus species, the brood development rate is slightly lower than other species from other genera. For this reason it is recommended to provide extra heat to speed up the brood development and increase activity.",
+        "rating": 3,
+        "nestTemperature":"24-28°C",
+        "hibernation":"No",
+        "diet":"Insects, honey water", 
+        "life":"20 years",
+        "images":["http://www.myrmecofourmis.com/forum/download/file.php?id=17154&mode=view", "http://www.myrmecofourmis.com/forum/download/file.php?id=17156&mode=view", "http://www.myrmecofourmis.com/forum/download/file.php?id=10335&mode=view"]
+    },
+    {
+        "species": "Camponotus turkestanus",
+        "colour": ["black","yellow"],
+        "location": "Asia",
+        "description": "Camponotus turkestanus is an Asian species of Camponotus which does not require hibernation due to their warm habitat. Not often seen on sale so are relatively rare.  Each colony varies in colour, so sometimes the workers may have slight black colouration on their bodies, but workers from another colony may be completely golden yellow.  Camponotus turkestanus can produce major workers which are almost as large as their Queen. This is a hardy species of Camponotus that is relatively easy to keep. The nest should have both a dry and moist area.  This species of ant can be kept at room temperature, however an additional heat spot is recommended.  In nature the Camponotus turkestanus only has one Queen per colony.",
+        "rating": 2,
+        "nestTemperature":"24-28°C",
+        "hibernation":"No",
+        "diet":"Sugar-water, Insect protein, Honey-water, Flies, Crickets, Cockroaches", 
+        "life":"15 years",
+        "images":["https://img.alicdn.com/imgextra/i3/24298958/TB26RD.dXXXXXXJXpXXXXXXXXXX_!!24298958.jpg", "https://myants.de/out/pictures/master/product/1/camponotustucestanus(2).jpg", "http://i191.photobucket.com/albums/z173/jon2thefish/Camponotus%20turkestanus%20Yellow/Camponotus%20turkestanus%20Yellow%201%20Take%202_1.jpg"]
     }
 ]
