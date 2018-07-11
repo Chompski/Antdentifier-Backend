@@ -2,7 +2,7 @@
     {
         "species": "Camponotus ligniperdus",
         "colour": ["black"],
-        "location": "europe",
+        "location": "Europe",
         "description": "Camponotus ligniperdus is a European ant and is one of the largest in Europe.  A hardy species that is easy to keep, that is active both day and night. A colony just starting off can be a little inactive at first until the colony develops at least 10 workers. Large colonies of Camponotus ligniperdus are very active and will provide a lot of entertainment to their owners.  Workers can reach up to 14mm in length, these particular workers are called Major workers.  The smaller workers are called Minor workers. This Camponotus species can be kept at room temperature, however an additional heat spot is appreciated.  The nest should have both a dry and moist area. In nature the Camponotus ligniperdus only has one Queen per colony.This is a suitable ant for beginners.",
         "rating": 1,
         "nestTemperature":"18-28°C",
@@ -14,7 +14,7 @@
     {
         "species": "Camponotus herculeanus",
         "colour": ["black"],
-        "location": "europe",
+        "location": "Europe",
         "description": "Camponotus herculeanus is one of the largest European species of ant (a lot larger than Messor barbarus).  Sometimes known as the Black Carpenter ant, they are distributed over Central Europe from Sweden and Norway to Poland and Germany.  Camponotus herculeanus can produce major workers which are almost as big as their Queen.   The nest should have both a dry and a moist area.   This species of ant can be kept at room temperature, however an additional heat spot is recommended.   This species only has one Queen per colony.   A well established Queen and colony can number up to 10,000 worker ants.   They are active both day and night.",
         "rating": 1,
         "nestTemperature":"21-30°C",
@@ -26,7 +26,7 @@
     {
         "species": "Camponotus cruentatus",
         "colour": ["black"],
-        "location": "europe",
+        "location": "Europe",
         "description": "Camponotus cruentatus is one of the largest ants in Europe.  This is an active ant species with very striking colouration. A colony just starting off can be a little inactive at first until the colony develops around 10 workers. Larger colonies of Camponotus cruentatus are very active and will provide a lot of entertainment to their owners. Workers can reach a substantial size of up to 14mm in length. These particular workers are called Major workers.  The smaller workers are called Minor workers. This Camponotus species can be kept at room temperature, however an additional heat spot is appreciated.  The nest ideally should have both a dry and moist area. In nature the Camponotus cruentatus only has one Queen per colony. This is a good ant for beginners.",
         "rating": 1,
         "nestTemperature":"21-24°C",
@@ -38,7 +38,7 @@
     {
         "species": "Messor barbarus",
         "colour": ["black","red"],
-        "location": "europe",
+        "location": "Europe",
         "description": "Messor barbarus is a very popular European Ant that alot of Ant-keepers keep.  A hardy species that is easy to keep.  Messor barbarus is a Harvester Ant. They collect seeds and store them in a grainary within the nest.  The larger Ants will chew these seeds to make 'Ant bread' which is their primary food source. They also feed of dead Insects. Messor barbarus will not  will not normally feed on honey/sugar water.  they should have a supply of freshwater drinking water which must be protected from drowning.  These Ants will thrive at room temperature (above 21°C) but may need an additional heater when the temperature is likely to fall below room temperature for an extended period of time.  You should always hibernate this species, espesically so if your Queen has not yet laid any eggs. The nest should have both a dry and moist area.  The dry area will be used to store the seeds and grains.",
         "rating": 1,
         "nestTemperature":"21-26°C",
@@ -50,7 +50,7 @@
     {
         "species": "Lasius niger",
         "colour": ["black"],
-        "location": "united kingdom",
+        "location": "United Kingdom",
         "description": "Lasius niger, or the black garden ant, is a very easy species to keep. They are survivors and can handle harsh environments and situations. Each colony has got a single queen and can grow into tens of thousands of workers.",
         "rating": 1,
         "nestTemperature":"21-24°C",
@@ -62,7 +62,7 @@
     {
         "species": "Lasius flavus",
         "colour": ["yellow"],
-        "location": "united kingdom",
+        "location": "United Kingdom",
         "description": "Lasius (Cautolasius) flavus is a very popular species of ant to keep in captivity. Found in the UK appearing a golden-Yellow on colour. The nest should have both a dry and a moist area.  Lasius (Cautolasius) flavus can be kept at room temperature, however an additional heat spot would be appreciated. In nature the Laius (Cautolasius) flavus only has one Queen per colony. This is a suitable ant for beginners.",
         "rating": 1,
         "nestTemperature":"21-24°C",
@@ -74,7 +74,7 @@
     {
         "species": "Myrmica rubra",
         "colour": ["red"],
-        "location": "united kingdom",
+        "location": "United Kingdom",
         "description": "Myrmica rubra are quite a common British ant species. They can be kept at room temperature,when kept in captivity.Myrmica rubra have a potent sting so they are able to defend their colony against predators. Their sting is compared to that of a stinging nettle and the effect can last for some time. Myrmica rubra are commonly found to have multiple Queens but since the Queens are only larger than a worker by a small amount, noticing them can prove difficult. Myrmica rubra are red/brown in colour and can be found nesting in rotten wood logs in the wild. Myrmica rubra are strong hunters and can be very aggressive towards other insects. Myrmica rubra are known for being able to kill insects with ease. Just drop a waxworm into a group of 100 or so workers and see their amazing aggressive behaviour.",
         "rating": 2,
         "nestTemperature":"21-24°C",
@@ -86,19 +86,19 @@
     {
         "species": "Camponotus vagus",
         "colour": ["black"],
-        "location": "europe",
+        "location": "Europe",
         "description": "Camponotus vagus is a large Black, hairy and aggressive species of Carpenter ant, they are distributed over South and Central Europe. Camponotus vagus can produce major workers which are almost as big as their Queen. The nest should have both a dry and a moist area.  This species of ant can be kept at room temperature, however an additional heat spot is recommended.  The Camponotus vagus only has one Queen per colony.  A well established Queen and colony can number up to 1,000 worker ants. They are active both day and night.",
         "rating": 1,
         "nestTemperature":"21-28°C",
         "hibernation":"Yes, October to March",
         "diet":"Insects, sugar water, honey water", 
         "life":"15 years",
-        "images":["http://www.fourmis-boutique.fr/img/p/177-716-thickbox.jpg", "http://www.fourmis-boutique.fr/img/p/177-715-thickbox.jpg", "http://macroclub.ru/gallery/data/511/DSC00214_.jpg"]
+        "images":["https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Formicidae_-_Camponotus_vagus.JPG/250px-Formicidae_-_Camponotus_vagus.JPG", "https://image.jimcdn.com/app/cms/image/transf/dimension=600x10000:format=jpg/path/s19a8fa4f336dd084/image/idd8e414475864569/version/1361774964/camponotus-vagus.jpg", "https://c1.staticflickr.com/8/7167/6690087049_7d1c85cc2e_b.jpg"]
     },
     {
         "species": "Crematogaster scutellaris",
         "colour": ["black","red"],
-        "location": "europe",
+        "location": "Europe",
         "description": "Crematogaster scutellaris are a species found throughout Southern Europe. This is a lovely Red and Black coloured ant with an oddly shaped abdomen. At first glance this species of Crematogaster seems quite peaceful. However if excited or threatened the Crematogaster scutellaris will raise their gaster upwards towards the air (appearing like a Scorpion) and spray a defensive secretion. A well establish colony can number up to 10,000 workers.",
         "rating": 1,
         "nestTemperature":"18-26°C",
@@ -110,13 +110,74 @@
     {
         "species": "Formica fusca",
         "colour": ["black"],
-        "location": "europe",
+        "location": "Europe",
         "description": "Formica fusca is a species found throughout Europe. This is a shiny/glossy Black Ant with their size making it a distinctive looking Formica sp. This Formica is very fast moving and sometimes has a 'hectic' kind of movement. The Formica fusca is suitable for beginners. A well established Queen and colony can number from 500 to 2000 worker ants. In nature the Formica (Serviformica) fusca can have more than one Queen.per colony. This Formica is an easy species to maintain. If the colony is put under a lot of stress, the workers may spread formic acid.",
         "rating": 1,
         "nestTemperature":"24-28°C",
         "hibernation":"Yes, End of October to the end of March, 5-8°C",
         "diet":"Sugar-water, Insect protein, Honey-water, Flies, Crickets, Cockroaches", 
         "life":"10-15 years",
-        "images":["http://www.fourmis-boutique.fr/img/p/159-701-thickbox.jpg", "http://photos.fourmis.free.fr/media/158/crematogaster_association_puceron.jpg", "http://www.fotonatura.org/galerias/fotos/usr23639/12705794Qh.jpg"]
+        "images":["https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Grauschwarze_Sklavenameise_Formica_fusca_01_%28MK%29.jpg/1200px-Grauschwarze_Sklavenameise_Formica_fusca_01_%28MK%29.jpg", "http://www.bwars.com/sites/www.bwars.com/files/styles/largest__950x750_/public/species_images/Formica-fusca_5rw.jpg?itok=sAmkQX-G", "https://c1.staticflickr.com/5/4102/4813508510_9838404467_b.jpg"]
+    },
+    {
+        "species": "Formica sanguinea",
+        "colour": ["black","red"],
+        "location": "Europe",
+        "description": "Formica sanguinea are a species found throughout Europe. This is a blood-red-brown ant with a black abdomen and head. This species of Formica is very fascinating for their 'robbery of slaves'. During the summer months, they attack other Formica species, most commonly Formica fusca for their larva and cocoons, However this Formica can live without any slave ants and can move very fast. Most colonies are monogynous meaning they have only one queen. Very large colonies in the wild can be polygyne. Nests can become large, a large established colony can have up to 10000 workers or more.",
+        "rating": 1,
+        "nestTemperature":"20-26C Room temperature is sufficient.",
+        "hibernation":"Yes, October to late March.",
+        "diet":"Insects, honey water", 
+        "life":"20 years",
+        "images":["http://www.freenatureimages.eu/animals/Hymenoptera,%20Bijen,%20Wespen-Mieren,%20Bees,%20Wasps-Ants/Formica%20sanguinea/Formica%20sanguinea%208,%20Bloedrode%20roofmier,%20Saxifraga-Ab%20H%20Baas.jpg", "http://www.antsrus.com/uploads/9/3/7/1/93714280/s389314327742919635_p62_i10_w550.jpeg", "http://ichef.bbci.co.uk/wwfeatures/wm/live/1280_720/images/live/p0/36/ck/p036ckzb.jpg"]
+    },
+    {
+        "species": "Manica rubida",
+        "colour": ["red"],
+        "location": "Europe",
+        "description": "Manica rubida is the largest stinging Ant species in Europe. This is a very strong Red-Brown coloured Ant. Sometimes known as the Large knots Ant. They are distributed over Central and Southern Europe. The Queen will actively leave the nest chambers and hunt for food to feed her first larva. Warning this species of Manica will sting you if provoked.",
+        "rating": 2,
+        "nestTemperature":"21-24°C",
+        "hibernation":"Yes, October to March, 5-8°C",
+        "diet":"Sugar-water, Insect protein, Honey-water, Flies, Crickets, Cockroaches", 
+        "life":"15 years",
+        "images":["https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Manica_rubida.jpg/266px-Manica_rubida.jpg", "http://www.myrmeblog.pl/wp-content/uploads/2016/09/Rojka-Manica-rubida.jpg", "https://www.ameiseninfos.de/assets/images/autogen/Manica-rubida-_1_1.jpg"]
+    },
+    {
+        "species": "Messor capitatus",
+        "colour": ["black"],
+        "location": "Europe",
+        "description": "Messor capitatus are a harvester ant. They collect seeds and store them in a grainary within the nest. The larger ants will chew these seeds to make ant bread which is their primary food source. They also feed off dead insects. Messor barbarus will not normally feed on honey/sugar water. They should have a supply of drinking water which must be protected from drowning. These ants thrive at room temperature (above 21 degrees C) but may need additional heater when the temperature is likely to fall below room temperature for an extended period of time. You should always hibernate this species, especially so if your queen has not yet laid any eggs.",
+        "rating": 3,
+        "nestTemperature":"21-26°C",
+        "hibernation":"Yes. Hibernate between November to Mid February at 15 degrees (and always above freezing)",
+        "diet":"Protein (dead insects) and Seeds", 
+        "life":"20 years",
+        "images":["https://www.naturamediterraneo.com/Public/data7/elleelle/REGINA%20CAPITATUS.JPG_2010214173935_REGINA%20CAPITATUS.JPG", "https://www.ameisenforum.de/files/1530_6c36dd7a0f1e70eb1e1923c0987b1dc7", "https://inpn.mnhn.fr/photos/uploads/webtofs/inpn/5/173405.jpg"]
+    },
+    {
+        "species": "Messor structor",
+        "colour": ["black"],
+        "location": "Europe",
+        "description": "Messor structor is a dark Brown to Black species of ant (not as large as Messor barbarus). The large major workers will develop Reddish heads. Messor structor is a harvester ant. They collect seeds and grains and store them in a granary within the nest. The larger ants will chew these seeds to make 'ant bread' which is their primary food source. They also feed off dead insects. The nest should have both dry and moist areas. Messor structor tend to keep their ant bread in a warm moist area, whilst the seeds and grains are stored in a dry area, This species of ant can be kept at room temperature, however an additional heat spot is recommended. In nature the Messor structor can have more than one Queen (polygyny) per colony. A well established Queen and colony can number into the 1,000's. The structor species is considered an easy to care for Messor.",
+        "rating": 2,
+        "nestTemperature":"21-26°C",
+        "hibernation":"Yes, from November to February, 15°C",
+        "diet":"Sugar-water, Insect protein, Honey-water, Flies, Crickets, Cockroaches", 
+        "life":"15 years",
+        "images":["http://www.antkeeping.co.uk/wp-content/uploads/2017/06/messor-structor-queen-for-sale.jpg", "https://i0.wp.com/antshungary.com/wp-content/uploads/2018/04/Messor_structor_www-antshungary-com1.jpg?fit=1200%2C900", "https://inpn.mnhn.fr/photos/uploads/webtofs/inpn/1/107311.jpg"]
+    },
+    {
+        "species": "Pheidole pallidula",
+        "colour": ["red"],
+        "location": "Europe",
+        "description": "Messor structor is a dark Brown to Black species of ant (not as large as Messor barbarus). The large major workers will develop Reddish heads. Messor structor is a harvester ant. They collect seeds and grains and store them in a granary within the nest. The larger ants will chew these seeds to make 'ant bread' which is their primary food source. They also feed off dead insects. The nest should have both dry and moist areas. Messor structor tend to keep their ant bread in a warm moist area, whilst the seeds and grains are stored in a dry area, This species of ant can be kept at room temperature, however an additional heat spot is recommended. In nature the Messor structor can have more than one Queen (polygyny) per colony. A well established Queen and colony can number into the 1,000's. The structor species is considered an easy to care for Messor.",
+        "rating": 2,
+        "nestTemperature":"21-28°C",
+        "hibernation":"Yes, November to February 15°C",
+        "diet":"Sugar-water, Insect protein, Honey-water, Flies, Crickets, Cockroaches", 
+        "life":"10 years",
+        "images":["https://c1.staticflickr.com/5/4108/4836653919_95784278ab_b.jpg", "https://c1.staticflickr.com/5/4106/4837265286_120b6951b0_b.jpg", "https://c1.staticflickr.com/5/4124/4837266048_0df55d712f_b.jpg"]
     }
+
 ]
