@@ -3,7 +3,7 @@
         "species": "Camponotus ligniperdus",
         "colour": ["black"],
         "location": "Europe",
-        "description": "Camponotus ligniperdus is a European ant and is one of the largest in Europe.  A hardy species that is easy to keep, that is active both day and night. A colony just starting off can be a little inactive at first until the colony develops at least 10 workers. Large colonies of Camponotus ligniperdus are very active and will provide a lot of entertainment to their owners.  Workers can reach up to 14mm in length, these particular workers are called Major workers.  The smaller workers are called Minor workers. This Camponotus species can be kept at room temperature, however an additional heat spot is appreciated.  The nest should have both a dry and moist area. In nature the Camponotus ligniperdus only has one Queen per colony.This is a suitable ant for beginners.",
+        "description": "Camponotus ligniperdus is a European ant and is one of the largest in Europe.\n A hardy species that is easy to keep, that is active both day and night\nA colony just starting off can be a little inactive at first until the colony develops at least 10 workers.\nLarge colonies of Camponotus ligniperdus are very active and will provide a lot of entertainment to their owners.\nWorkers can reach up to 14mm in length, these particular workers are called Major workers.\nThe smaller workers are called Minor workers.\nThis Camponotus species can be kept at room temperature, however an additional heat spot is appreciated.\nThe nest should have both a dry and moist area.\nIn nature the Camponotus ligniperdus only has one Queen per colony.\nThis is a suitable ant for beginners.",
         "rating": 1,
         "nestTemperature":"18-28°C",
         "hibernation":"Yes, October to March, at 5-8°C",
@@ -264,7 +264,7 @@
         "images":["http://www.antwiki.org/wiki/images/thumb/f/f9/Odontoponera_Shattuck_54675_Danum_Valley_Sabah-web.jpg/400px-Odontoponera_Shattuck_54675_Danum_Valley_Sabah-web.jpg", "http://www.natureloveyou.sg/Minibeast-Bee/Odontoponera%20transversa/DSC05567%20(13).JPG", "https://static.inaturalist.org/photos/724367/large.JPG?1394915267"]
     },
     {
-        "species": "Carebara diversa (Pheidologeton diversus)",
+        "species": "Carebara diversa",
         "colour": ["black","brown"],
         "location": "Asia",
         "description": "Carebara diversa is an interesting species due to having the largest size difference between the major and minor workers. A very aggressive species of ant which will attack anything that enters their territory. Carebara diversa will send out thousands of workers to swarm and over power their prey. Young colonies will require a water supply within very close reach of workers especially for a small colony. In nature Carebara diversa can have more than 1 Queen in a colony, numbering over 10 Queens. ",
@@ -288,7 +288,7 @@
         "images":["https://i.pinimg.com/originals/93/98/a2/9398a2244f5495c4c9835e57ea86ffac.jpg", "http://antvid.org/Photo/Myrmicinae/Messor/M.aciculatus/messor_aci03.jpg", "http://antclub.org/files/Messor%20aciculatus_2.jpg"]
     },
     {
-        "species": "Polyrhachis dives (Weaver ants)",
+        "species": "Polyrhachis dives",
         "colour": ["black","yellow"],
         "location": "Asia",
         "description": "Polyrhachis dives are weaver ants, but unlike Oecophylla spec. they build nests on the ground in substrates. Polyrhachis dives are not suited to keeping in acrylic nests or Ytong nests. Ideally, they require a large glass basin in which the ants should have access to a substrate such as wood shavings and an area to weave a nest. The location of the nest can be manipulated by using a heat mat as the ants will prefer to nest in warmer spots. This species can consume a large amount of protein which is necessary for the development of the larvae to be able to weave their nest.",
@@ -324,7 +324,7 @@
         "images":["http://www.biofaces.com/upload/post/1466521177.jpg", "http://www.biofaces.com/img/1662/o/1123/748/post/2017/09/1506726486.jpg", "http://farm5.static.flickr.com/4008/4578404057_6d667fb4ca.jpg"]
     },
     {
-        "species": "Paraponera clavata (Bullet ants)",
+        "species": "Paraponera clavata",
         "colour": ["black", "red"],
         "location": "America",
         "description": "Paraponera clavata, more commonly known as Bullet Ants, are famous for their painful sting. Found in America, this species can live alongside other ant species such as Neoponera apicalis and shows no aggression towards them. Paraponera clavata commonly nest at the base of trees in nature and an arboreal formicarium is perfect for their needs. A rainforest climate should be created to allow a natural habitat for this species as they are best observed in their natural environment. Often, foragers are found on higher levels such as canopies at night. The ants are black in colour with golden hairs and a yellow tinge to their antennae and legs. Interestingly, this species is monogyne meaning that there is only one dominant Queen in a colony but a colony can be founded by pleometrosis. Pleometrosis is the founding of a colony where multiple Queens can coincide and raise the brood. However, once the first workers eclose, the workers will choose a dominant Queen and kill off the other Queens. This process is risky, but strategically you can separate the Queens before the first workers eclose and give each Queen a share of the brood. This can speed up colony development so that each Queen has brood of its own.",
