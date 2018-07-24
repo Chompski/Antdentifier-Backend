@@ -1,6 +1,6 @@
 # Antdentifier Back-End
 
-The backend for an app which displays ant keeping infomation on a variety of the most popular species of ants.
+The backend for Antdentifier which is an app for hobbyist ant keepers, the main goal for the app is to help them identify and care for a multitude of ant species.
 
 ### Prerequisites
 
@@ -27,7 +27,7 @@ From your command line:
 $ git clone xxx
 
 # Go into the repository
-$ cd nc-news
+$ cd backend
 
 # Install dependencies
 $ npm i
@@ -38,14 +38,8 @@ $ mongod
 # Run the app locally
 $ npm run dev
 ```
-
 ## Running the tests
-
-
-
-### Break down into end to end tests
-
-
+npm run test
 
 ## Deployment
 
